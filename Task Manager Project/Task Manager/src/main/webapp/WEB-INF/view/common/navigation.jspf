@@ -1,0 +1,10 @@
+
+<nav role="navigation" class="navbar navbar-default">
+	<div class="hello">
+		<h1>Welcome to Ayush's Task's </h1>
+
+		<a href="/task/showFormForAdd">Add Task</a>
+			<a href="/task/listTask">View Task</a>
+
+	</div>
+</nav>
